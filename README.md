@@ -220,4 +220,4 @@ Kratos Reborn is a free add-on for Kodi, providing the full version with all fea
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-05 15:44:23 UTC
+**Last updated:** 2026-10-05 22:25:16 UTC
